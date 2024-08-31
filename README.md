@@ -1,0 +1,1 @@
+It is an implementation of a Selection Sort made in python. It has the time complexity of O(n**2). There are two loops, while and for, in the while loop, it swaps the smallest item with the first item in the sorted part of the list and in the for loop, it finds the smallest item in the unsorted part of the list
